@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning **Machine Learning**, **Data Science**, and **Data Analytics** stuffs
 - ⚡ Things I love besides coding:
   * Playing chess ♟️
-  * Gaming on [Steam](https://steamcommunity.com/id/iqrar99/) 🎮
+  * Playing games 🎮
   * Watching anime 📺
