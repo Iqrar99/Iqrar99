@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iqrar99_)
 
 - 🔭 I’m currently studying at **Universitas Indonesia**
-- 🌱 I’m currently learning **Machine Learning**, **Data Science**, and **Data Analytics** stuff
+- 🌱 I’m currently learning **Machine Learning**, **Backend**, and **Data Analytics** stuff
 - ⚡ Things I love besides coding:
   * Playing games 🎮
   * Watching movies and anime 📺
