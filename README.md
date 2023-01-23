@@ -1,11 +1,11 @@
 ## Hi, there! I'm Iqrar 👋
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iqrar99_)
 
-- 🔭 I’m currently studying at **Universitas Indonesia**
-- 🌱 I’m currently learning **Machine Learning**, **Backend**, and **Data Analytics** stuff
+- 🔭 I’m graduated from **Universitas Indonesia**
+- 🌱 I’m currently learning **Backend** and **Data Analytics** stuff
 - ⚡ Things I love besides coding:
   * Playing games 🎮
-  * Watching movies and anime 📺
+  * Watching anime 📺
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
