@@ -19,3 +19,8 @@
 
 ### Seasonal Badges during Hacktoberfest 2022
 [![@iqrar99's Holopin board](https://holopin.me/iqrar99)](https://holopin.io/@iqrar99)
+
+<h4 align="center">My discord status</h4>
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-2/278821688894947328.png" style="text-align:center"/>
+</p>
