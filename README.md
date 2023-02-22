@@ -24,3 +24,8 @@
 <p align="center">
     <img src="https://discord.c99.nl/widget/theme-2/278821688894947328.png" style="text-align:center"/>
 </p>
+
+<h4 align="center">Musics i played recently</h4>
+<p align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wwhrdbcompxbhwe2hxnbxp6wny&count=10&unique=1" style="text-align:center"/>
+</p>
