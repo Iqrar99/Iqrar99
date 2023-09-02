@@ -28,6 +28,7 @@
     <img height="27" src="https://img.shields.io/badge/-Haskell-0d182b?style=flat&logo=Haskell&logoColor=5D4F85" alt="haskell"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-HTML-0d182b?style=flat&logo=html5" alt="html5"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=flat&logo=css3&logoColor=1572B6" alt="css"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Sass-0d182b?style=flat&logo=Sass&logoColor=CC6699" alt="sass"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Octave-0d182b?style=flat&logo=octave&logoColor=0790C0" alt="octave"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Bash-0d182b?style=flat&logo=gnubash&logoColor=4EAA25" alt="bash"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Django-0d182b?style=flat&logo=Django&logoColor=1a7d58" alt="django"> &nbsp;
@@ -41,6 +42,7 @@
     <img height="27" src="https://img.shields.io/badge/-PostgreSQL-0d182b?style=flat&logo=Postgresql" alt="postgresql"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-MySQL-0d182b?style=flat&logo=Mysql" alt="mysql"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Docker-0d182b?style=flat&logo=docker&logoColor=2496ED" alt="docker"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Redis-0d182b?style=flat&logo=redis&logoColor=DC382D" alt="redis"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Postman-0d182b?style=flat&logo=postman&logoColor=FF6C37" alt="postman"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-MongoDB-0d182b?style=flat&logo=mongodb&logoColor=47A248" alt="mongodb"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Git-0d182b?style=flat&logo=Git" alt="git"> &nbsp;
