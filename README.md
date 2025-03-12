@@ -23,7 +23,6 @@
     <img height="27" src="https://img.shields.io/badge/-Go-0d182b?style=flat&logo=Go" alt="go"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-C-0d182b?style=flat&logo=C&logoColor=A8B9CC" alt="c"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Haskell-0d182b?style=flat&logo=Haskell&logoColor=5D4F85" alt="haskell"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-HTML-0d182b?style=flat&logo=html5" alt="html5"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=flat&logo=css3&logoColor=1572B6" alt="css"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Sass-0d182b?style=flat&logo=Sass&logoColor=CC6699" alt="sass"> &nbsp;
