@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m graduated from **Universitas Indonesia**
-- 🌱 I’m currently learning **Backend** and **Data Analytics** stuff
+- 🌱 I’m currently learning **Backend Engineering** with **Go**
 - ⚡ Things I love besides coding:
   * Playing games 🎮
   * Watching movies and anime 📺
