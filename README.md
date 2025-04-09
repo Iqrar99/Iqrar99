@@ -21,32 +21,27 @@
     <img height="27" src="https://img.shields.io/badge/-Go-0d182b?style=flat&logo=Go" alt="go"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Java-0d182b?style=flat&logo=Java" alt="java"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-JavaScript-0d182b?style=flat&logo=javascript" alt="javascript"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-C-0d182b?style=flat&logo=C&logoColor=A8B9CC" alt="c"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Typescript-0d182b?style=flat&logo=typescript" alt="typescript"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-HTML-0d182b?style=flat&logo=html5" alt="html5"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=flat&logo=css3&logoColor=1572B6" alt="css"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Sass-0d182b?style=flat&logo=Sass&logoColor=CC6699" alt="sass"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Octave-0d182b?style=flat&logo=octave&logoColor=0790C0" alt="octave"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Bash-0d182b?style=flat&logo=gnubash&logoColor=4EAA25" alt="bash"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Django-0d182b?style=flat&logo=Django&logoColor=1a7d58" alt="django"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Spring-0d182b?style=flat&logo=Spring&logoColor=6DB33F" alt="spring"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-React.js-0d182b?style=flat&logo=react&logoColor=61DAFBF" alt="react"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Nuxt-0d182b?style=flat&logo=Nuxt" alt="nuxt"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Vue.js-0d182b?style=flat&logo=vuedotjs" alt="Vue"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Tensorflow-0d182b?style=flat&logo=Tensorflow" alt="tensorflow"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Keras-0d182b?style=flat&logo=Keras&logoColor=D00000" alt="keras"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Google Colab-0d182b?style=flat&logo=googlecolab&logoColor=F9AB00" alt="googlecolab"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Google Analytics-0d182b?style=flat&logo=googleanalytics&logoColor=E37400" alt="googleanalytics"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Tableau-0d182b?style=flat&logo=tableau&logoColor=E97627" alt="tableau"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-PostgreSQL-0d182b?style=flat&logo=Postgresql" alt="postgresql"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-MySQL-0d182b?style=flat&logo=Mysql" alt="mysql"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-MongoDB-0d182b?style=flat&logo=mongodb&logoColor=47A248" alt="mongodb"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Docker-0d182b?style=flat&logo=docker&logoColor=2496ED" alt="docker"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Redis-0d182b?style=flat&logo=redis&logoColor=DC382D" alt="redis"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Postman-0d182b?style=flat&logo=postman&logoColor=FF6C37" alt="postman"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-MongoDB-0d182b?style=flat&logo=mongodb&logoColor=47A248" alt="mongodb"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Git-0d182b?style=flat&logo=Git" alt="git"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Linux-0d182b?style=flat&logo=Linux" alt="linux"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Ubuntu-0d182b?style=flat&logo=Ubuntu" alt="ubuntu"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-VS Code-0d182b?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="visualstudiocode"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Figma-0d182b?style=flat&logo=figma&logoColor=F24E1E" alt="figma"> &nbsp;
 </div>
 
 ### 🏆 Seasonal Badges during Hacktoberfest 2022
