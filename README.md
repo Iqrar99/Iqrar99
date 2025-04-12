@@ -1,12 +1,18 @@
 <h2 align="center" style="font-size:250px">Hi, there! I'm Iqrar 👋</h2>
-
 <div align="center">
-
+    <img src="https://discord.c99.nl/widget/theme-2/278821688894947328.png" style="text-align:center"/>
+</div>
+<div align="center">
+ 
 [![Gitlab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/iqrar99) &nbsp;
 [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monarch99/) &nbsp;
 
 </div>
-
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=Iqrar99&abbreviated=true&style=flat-square&color=248085)
+    
+</div>
 
 - 🔭 I’m graduated from **Universitas Indonesia**
 - 🌱 I’m currently learning **Backend Engineering** with **Go**
@@ -49,15 +55,3 @@
 
 ### 🏆 Seasonal Badges during Hacktoberfest 2023
 [![@iqrar99's Holopin board](https://holopin.me/iqrar99)](https://holopin.io/@iqrar99)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h4 align="center">My discord status</h4>
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/278821688894947328.png" style="text-align:center"/>
-</p>
-
-<h4 align="center">Musics i played recently</h4>
-<p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wwhrdbcompxbhwe2hxnbxp6wny&count=5&unique=1" style="text-align:center"/>
-</p>
