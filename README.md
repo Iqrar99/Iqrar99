@@ -1,6 +1,6 @@
 <h2 align="center" style="font-size:250px">Hi, there! I'm Iqrar 👋</h2>
 <div align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/278821688894947328.png" style="text-align:center"/>
+    <img src="https://lanyard.cnrad.dev/api/278821688894947328?theme=dark&showDisplayName=true&borderRadius=30px&idleMessage=I'm%20doing%20something%20else&hideActivity=true&bg=181d24" style="text-align:center"/>
 </div>
 <div align="center">
  
