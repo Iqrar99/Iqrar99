@@ -50,6 +50,11 @@
     <img height="27" src="https://img.shields.io/badge/-Ubuntu-0d182b?style=flat&logo=Ubuntu" alt="ubuntu"> &nbsp;
 </div>
 
+### 🏆 Github Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iqrar99&theme=chalk&margin-w=3&margin-h=3&column=5">
+</p>
+
 ### 🏆 Seasonal Badges during Hacktoberfest 2022
 <img width="1024" alt="image" src="https://github.com/Iqrar99/Iqrar99/assets/20255031/10539c19-cccf-4aae-a3a8-286ccaee7739">
 
