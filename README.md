@@ -36,9 +36,8 @@
     <img height="27" src="https://img.shields.io/badge/-Django-0d182b?style=flat&logo=Django&logoColor=1a7d58" alt="django"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Spring-0d182b?style=flat&logo=Spring&logoColor=6DB33F" alt="spring"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Nuxt-0d182b?style=flat&logo=Nuxt" alt="nuxt"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Vue.js-0d182b?style=flat&logo=vuedotjs" alt="Vue"> &nbsp;
+    <img height="27" src="https://img.shields.io/badge/-Vue-0d182b?style=flat&logo=vuedotjs" alt="Vue"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Tensorflow-0d182b?style=flat&logo=Tensorflow" alt="tensorflow"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Keras-0d182b?style=flat&logo=Keras&logoColor=D00000" alt="keras"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-PostgreSQL-0d182b?style=flat&logo=Postgresql" alt="postgresql"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-MySQL-0d182b?style=flat&logo=Mysql" alt="mysql"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-MongoDB-0d182b?style=flat&logo=mongodb&logoColor=47A248" alt="mongodb"> &nbsp;
