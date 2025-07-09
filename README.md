@@ -25,7 +25,6 @@
 <div align="center">
     <img height="27" src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=python" alt="python"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Go-0d182b?style=flat&logo=Go" alt="go"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-Java-0d182b?style=flat&logo=Java" alt="java"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-JavaScript-0d182b?style=flat&logo=javascript" alt="javascript"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Typescript-0d182b?style=flat&logo=typescript" alt="typescript"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
