@@ -4,7 +4,6 @@
 </div>
 <div align="center">
  
-[![Gitlab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/iqrar99) &nbsp;
 [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monarch99/) &nbsp;
 
 </div>
