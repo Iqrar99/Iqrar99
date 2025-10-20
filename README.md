@@ -13,8 +13,9 @@
     
 </div>
 
-- 🔭 I’m graduated from **Universitas Indonesia**
-- 🌱 I’m currently learning **Backend Engineering** with **Go**
+- 🔭 Graduated from **Universitas Indonesia**
+- 🌱 Currently learning **Backend Engineering** using **Go**
+- 📖 Also learning Japanese / 日本語 🎌
 - ⚡ Things I love besides coding:
   * Playing games 🎮
   * Watching movies and anime 📺
