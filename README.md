@@ -57,4 +57,7 @@
 <img width="1024" alt="image" src="https://github.com/Iqrar99/Iqrar99/assets/20255031/10539c19-cccf-4aae-a3a8-286ccaee7739">
 
 ### 🏆 Seasonal Badges during Hacktoberfest 2023
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/91553e9d-eab2-4abe-82ed-79d9db3425d3" />
+
+### 🏆 Seasonal Badges during Hacktoberfest 2025
 [![@iqrar99's Holopin board](https://holopin.me/iqrar99)](https://holopin.io/@iqrar99)
