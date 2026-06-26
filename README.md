@@ -28,7 +28,6 @@
     <img height="27" src="https://img.shields.io/badge/-JavaScript-0d182b?style=flat&logo=javascript" alt="javascript"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-Typescript-0d182b?style=flat&logo=typescript" alt="typescript"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
-    <img height="27" src="https://img.shields.io/badge/-PHP-0d182b?style=flat&logo=php" alt="php"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-HTML-0d182b?style=flat&logo=html5" alt="html5"> &nbsp;
     <img height="27" src="https://img.shields.io/badge/-CSS-0d182b?style=flat&logo=css&logoColor=1572B6" alt="css"> &nbsp;
 </div>
